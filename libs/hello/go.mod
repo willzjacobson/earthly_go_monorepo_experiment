@@ -1,3 +1,3 @@
-module github.com/earthly/earthly/examples/go-monorepo/libs/hello
+module github.com/earthly_go_monorepo_experiment/libs/hello
 
 go 1.17
